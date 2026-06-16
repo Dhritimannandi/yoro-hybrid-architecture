@@ -1,0 +1,23 @@
+# Core
+pandas>=2.0
+openpyxl>=3.1
+anthropic>=0.25
+
+# Optional: for HuggingFace fine-tuning
+# torch>=2.0
+# transformers>=4.40
+# peft>=0.10
+# accelerate>=0.28
+# bitsandbytes>=0.43
+# datasets>=2.18
+
+# Optional: for Azure OpenAI backend
+# langchain-openai>=0.1
+# langchain-core>=0.1
+# openai>=1.20
+
+# Optional: for Graph-RAG integration (DKL Context Graph)
+# networkx>=3.0
+
+# Testing
+pytest>=7.0
