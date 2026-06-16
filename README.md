@@ -216,6 +216,14 @@ The system also supports **Claude as a simulated expert** (without fine-tuning) 
 
 ---
 
+## Data
+
+`Olist_DataLens_Output.xlsx` is a Data Knowledge Layer (DKL) file derived from the
+[Olist Brazilian E-Commerce Public Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+(CC BY-NC-SA 4.0). It contains schema metadata only — table definitions, column types,
+foreign key relationships, and representative sample values — used by the schema profiler
+and synthetic data generator. The raw Kaggle CSVs are not included.
+
 ## License
 
 MIT License. See [LICENSE](LICENSE).
