@@ -15,7 +15,6 @@ venv/
 env/
 
 # Data files (DKL Excel, output workbooks)
-*.xlsx
 *.csv
 Olist_DataLens_Output.xlsx
 
